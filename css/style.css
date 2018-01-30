@@ -1,0 +1,59 @@
+
+body .container {
+  background-color:#201F1C;
+  color:silver;
+}
+
+h1, h2 {
+ text-align: center;
+}
+
+.container h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 60px;
+}
+
+div .photo {
+  margin-top:20px;
+  padding: 0 10px;
+  background-color: black;
+  color: white;
+}
+
+div .photo p {
+  padding:10px;
+}
+
+.story, .quote2 {
+  margin:25px;
+  font-size:20px;
+}
+
+.story li {
+  padding:10px;
+}
+
+.quote1 {
+  position:absolute;
+  max-width:40%;
+  margin-left: 15px;
+  margin-top: 15%;
+  font-size:34px;
+  font-family: 'Playfair Display', serif;
+}
+
+.quote2 {
+  text-shadow: 0px 0px 3px silver;
+  width:60%;
+  margin: 0 auto;
+}
+
+.wiki p {
+  margin:25px;
+  font-size:20px;
+  text-align:center;
+}
+
+footer {
+  text-align : center;
+}
